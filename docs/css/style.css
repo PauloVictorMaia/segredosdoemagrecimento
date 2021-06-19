@@ -194,7 +194,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	-o-background-size: cover;
 }
 .intro .overlay {
-	
+	background: rgba(0,0,0,0.2);
 }
 .intro h1 {
 	font-family: 'Raleway', sans-serif;
@@ -218,10 +218,9 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	margin-bottom: 60px;
 }
 header .intro-text {
+	padding-top: 350px;
 	padding-bottom: 200px;
 	text-align: center;
-	background-image: url('https://www.submarinoviagens.com.br/bora-nessa-trip/wp-content/uploads/2020/10/nordeste-praias-bonitas.jpg');
-	background-size: cover;
 }
 /* Features Section */
 #features {
@@ -242,7 +241,7 @@ header .intro-text {
 }
 /* About Section */
 #about {
-	padding: 50px 0;
+	padding: 100px 0;
 }
 #about h3 {
 	font-size: 22px;
