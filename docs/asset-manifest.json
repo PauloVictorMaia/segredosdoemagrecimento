@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "./static/css/main.6dea0f05.chunk.css",
-    "main.js": "./static/js/main.4e9a3d5d.chunk.js",
-    "main.js.map": "./static/js/main.4e9a3d5d.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.fc3cd5fd.js",
-    "runtime-main.js.map": "./static/js/runtime-main.fc3cd5fd.js.map",
-    "static/js/2.48a32486.chunk.js": "./static/js/2.48a32486.chunk.js",
-    "static/js/2.48a32486.chunk.js.map": "./static/js/2.48a32486.chunk.js.map",
+    "main.js": "./static/js/main.f538e242.chunk.js",
+    "main.js.map": "./static/js/main.f538e242.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.27601a72.js",
+    "runtime-main.js.map": "./static/js/runtime-main.27601a72.js.map",
+    "static/js/2.cc7b7ef2.chunk.js": "./static/js/2.cc7b7ef2.chunk.js",
+    "static/js/2.cc7b7ef2.chunk.js.map": "./static/js/2.cc7b7ef2.chunk.js.map",
     "index.html": "./index.html",
     "static/css/main.6dea0f05.chunk.css.map": "./static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.48a32486.chunk.js.LICENSE.txt": "./static/js/2.48a32486.chunk.js.LICENSE.txt",
+    "static/js/2.cc7b7ef2.chunk.js.LICENSE.txt": "./static/js/2.cc7b7ef2.chunk.js.LICENSE.txt",
     "static/media/Segredosproduto.9c0ae13c.png": "./static/media/Segredosproduto.9c0ae13c.png",
     "static/media/vivendozenlogo.6ad862de.png": "./static/media/vivendozenlogo.6ad862de.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.fc3cd5fd.js",
-    "static/js/2.48a32486.chunk.js",
+    "static/js/runtime-main.27601a72.js",
+    "static/js/2.cc7b7ef2.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.4e9a3d5d.chunk.js"
+    "static/js/main.f538e242.chunk.js"
   ]
 }
