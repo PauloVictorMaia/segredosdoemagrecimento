@@ -5,9 +5,9 @@ export const About = (props) => {
     <div id='about' style={{paddingTop: 0, paddingBottom: 50}}>
       <div className='container'>
         <div className='row'>
-          <div className='col-xs-12 col-md-6'>
+          <div className='col-xs-12 col-md-6' style={{boxShadow: 'none'}}>
             {' '}
-            <img src={Logo} style={{width: '100%'}} alt='' />{' '}
+            <img src={Logo} style={{width: '100%', boxShadow: 'none'}} alt='' />{' '}
           </div>
           <div className='col-xs-12 col-md-6'>
             <div className='about-text'>
