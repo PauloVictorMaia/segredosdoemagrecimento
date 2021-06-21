@@ -6,50 +6,37 @@
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "'Segredos do emagrecimento pós quarentena', trata-se de um livro digital com o objetivo melhorar a qualidade de vida de diversas pessoas em inúmeros aspectos, sabemos que, qualidade de vida está relacionada a diversos pontos, e em todos os casos estar bem com o próprio corpo é de suma importância.",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
+            "Qualidade de vida é a nossa maior preocupação",
+            "É possível alcançar incríveis resultados de maneira rápida e saudável",
+            "Produtos digitais que realmente resolvem problemas",
+            "Soluções para uma melhor qualidade de vida que não venha a atrapalhar sua rotina"
         ],
         "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
+            "Substituição na alimentação de maneira acessível",
+            "Entender primeiro sua situação e ter uma solução para isso",
+            "Pelo preço de uma pizza mudamos sua qualidade de vida!"
         ]
     },
-    "Services": [{
-            "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
+    "Services": [
+        
         {
             "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Compra e satisfação garantida",
+            "text": "Realizando a aquisição do produto, a entrega é feita quase que imediata para o cliente, tornando a mudança em sua vida mais próxima."
         },
         {
             "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Acesso facilitado",
+            "text": "Acesso de maneira vitalícia ao livro digital de qualquer lugar e a qualquer hora!"
         },
         {
             "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Linguagem acessível",
+            "text": "Todos os termos técnicos são abordados de maneira simples, e colocando em situações práticas do dia a dia, tornando a experiência acessível para todos os públicos"
         }
+
 
 
     ],
@@ -114,23 +101,23 @@
     },
     "Features": [{
             "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Melhoria de autoestima",
+            "text": "A maioria das pessoas começa a praticar exercícios pensando apenas na preparação física, mas ganham vários benefícios como controle emocional, aumento da autoestima, diminuição da ansiedade e melhora no humor."
         },
         {
-            "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-cutlery",
+            "title": "Alimentação acessível",
+            "text": "Como na maioria dos casos, as alimentações sugeridas fogem muito da realidade da grande maioria, mudamos sua alimentação de maneira simples e que faz toda a diferença."
         },
         {
-            "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-bed",
+            "title": "Qualidade de sono",
+            "text": "Quem pratica atividade física dorme mais rápido, consegue relaxar e descansar melhor, tem um sono mais profundo e de qualidade, sente-se mais disposto no outro dia, tem mais facilidade para obter um peso saudável e, ao unir tudo isso, melhora a qualidade de vida como um todo."
         },
         {
             "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Isso vai ser uma mágica?",
+            "text": "Não, mas acreditamos que com o direcionamento certo e acessível, todos são capazes de fazer a sua própria sorte e a sua própria 'mágica'!"
         }
     ]
 }
